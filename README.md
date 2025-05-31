@@ -43,7 +43,7 @@ class AhmedAdel {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,Blue Team,git,bash" />
 </p>
 
 ---
